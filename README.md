@@ -21,3 +21,6 @@
   <a href="https://www.linkedin.com/in/yan-yoshida-783669221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+![Sanke animation](https://github.com/Yagami5735/Yagami5735/blob/output/github-contribution-grid-snake.svg)
+
+
