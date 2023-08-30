@@ -1,8 +1,6 @@
 ### Olá! Meu nome é Yan Yoshida 👋
 
-- 🌱 Estou cursando Ciência de Dados e InteliGência Artificial
-- 😄 Pronomes: Ele/Dele
-
+- 🧑‍💻 Estou cursando Ciência de Dados e InteliGência Artificial
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yagami5735&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagami5735&langs_count=10&theme=dracula)
@@ -20,7 +18,3 @@
   <a href = "mailto:yan.y.luz1310@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yan-yoshida-783669221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-![Sanke animation](https://github.com/Yagami5735/Yagami5735/blob/output/github-contribution-grid-snake.svg)
-
-
