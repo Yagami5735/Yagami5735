@@ -3,7 +3,7 @@
 - 🧑‍💻 Estou cursando Ciência de Dados e InteliGência Artificial
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yagami5735&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagami5735&langs_count=100000000&show_pirvate=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagami5735&langs_count=100000&show_pirvate=true&theme=dracula)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
