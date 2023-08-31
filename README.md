@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Yan Yoshida 👋
 
-- 🧑‍💻 Estou cursando Ciência de Dados e InteliGência Artificial
+- 🧑‍💻 Estou cursando Ciência de Dados e Inteligência Artificial
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yagami5735&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagami5735&langs_count=10000000000000000000000000000&show_pirvate=true&theme=dracula)
