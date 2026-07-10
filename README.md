@@ -1,8 +1,6 @@
 ### Olá! Meu nome é Yan Yoshida 👋
 
 - 🧑‍💻 Sou Técnico em Mecatrônica e estou cursando Ciência de Dados e Inteligência Artificial.
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagami5735&langs_count=10000000000000000000000000000&show_pirvate=true&theme=dracula)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
